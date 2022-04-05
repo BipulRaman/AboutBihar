@@ -15,8 +15,7 @@
     "resource": [
       {
         "files": [
-          "images/**",
-          "logo.svg"
+          "images/**"
         ]
       }
     ],
