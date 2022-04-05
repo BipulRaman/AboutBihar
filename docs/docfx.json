@@ -31,11 +31,11 @@
       "ExtractSearchIndex"
     ],
     "globalMetadata": {
-      "_appFooter": "<span>Copyright © 2019 Oscar Vasquez<br>Generated with <strong>DocFX</strong></span>",
-      "_appTitle": "DocFX Material",
+      "_appFooter": "<span>Copyright © 2022 <strong>Bipul Raman</strong></span>",
+      "_appTitle": "Bipul Raman",
       "_enableSearch": "true",
       "_gitContribute": {
-        "repo": "https://github.com/ovasquez/docfx-material"
+        "repo": "https://github.com/bipulRaman/SampleDoc"
       },
       "_gitUrlPattern": "github"
     },
