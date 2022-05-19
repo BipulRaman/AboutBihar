@@ -1,6 +1,6 @@
-# About Bihar
+# Motihari
 
-## An Initiative to document cultural heritage of Bihar
+## Introduction
 
 Lorem markdownum in interea, in angues ausa facit **solita**. Tam clangore neque
 plangere tanta, fuit partem culpa iunctorum iuncta parientibus viret procubuisse

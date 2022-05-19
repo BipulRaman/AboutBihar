@@ -1,9 +1,9 @@
 - name: Changelog
   href: CHANGELOG.md
-- name: Sample Articles
-  href: articles/
-- name: Sample API
-  href: api/
+- name: Districts
+  href: Districts/
+- name: Festivals
+  href: Festivals/
   topicHref: api/index.md
 - name: GitHub
-  href: https://github.com/ovasquez/docfx-material/
+  href: https://github.com/bipulraman/AboutBihar/

@@ -1,6 +1,6 @@
-# Rigidum iuvenis referat iamque Maera habebat quid
+# Districts
 
-## Rotatis corpora aliquid regnum et sequerer
+## Introduction
 
 Lorem markdownum in interea, in angues ausa facit **solita**. Tam clangore neque
 plangere tanta, fuit partem culpa iunctorum iuncta parientibus viret procubuisse
@@ -38,31 +38,3 @@ Rapiare concilium lacrimaeque crudelis tempus claustraque videtur? In et mira
 sperato placuere sinisterior regis profundum dixit aemula! Aestus caede aliquid
 fulvis aer sunt, quem fide nives, cetera molle ululatibus, descenderat undis
 ipsaque **cum exsecrantia**.
-
-## Erat ingeniis
-
-Est [sibi quoniam his](http://www.candentia-haurire.com/) morte dea tellus
-aestibus imaginis e que vel nec! Verentur amomo. Quid non popularis in prioris
-convexi remos sua, quisquis ut illa nomen, [aequor urbis](http://agros.net/).
-Frondescere fata [excutiuntque](http://valuitambos.net/spernitque.aspx) Hylonome
-matrem!
-
-    var error = whitelist;
-    username.dos = web.eup_restore.tagSwitch(postscriptSpamUltra / -1 +
-            hubToolbar - definitionTraceroute, extranet.favicon(pmu));
-    client_ccd_emoticon(speed_rt_joystick);
-    var metal = ppi(duplex(integerTweet, virtualTiffMini + map_input_impact));
-    if (1 != 26) {
-        hddMpStart(crt_progressive_xmp.touchscreen_processor_hard.donationware(
-                blu_transistor_rosetta, status, 2), hot / 4, intranet);
-        flopsFriendly(2);
-        peripheralPost(device_url.url(printer));
-    } else {
-        propertyHorse = odbc(synServiceOptical, openMouseLan);
-        tweak.language = smartphoneSmmAddress(snippet_file_sink + 3);
-    }
-
-Ab dona partibus orbem auras telum, mutant totidemque ipse cribri
-[sternuntur](http://www.ferro-dicere.io/tenuis) solverat. *Quoque* sonuere *ne
-iniuria* carpere. Draconum leporem. Sed mixta conscia nisi lupi auxilio. Litora
-iuventus annis.

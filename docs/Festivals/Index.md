@@ -1,6 +1,6 @@
-# About Bihar
+# Districts of Bihar
 
-## An Initiative to document cultural heritage of Bihar
+## Introduction
 
 Lorem markdownum in interea, in angues ausa facit **solita**. Tam clangore neque
 plangere tanta, fuit partem culpa iunctorum iuncta parientibus viret procubuisse
@@ -20,7 +20,7 @@ lacrimae, voce [et](http://iactarique.com/) ullis sedent.
 > Bacchi pisce nautae ab ulli. Corporibus nodus undas, more, **sonant in** retro
 > vina remittat illa tum; hic.
 
-## Tourist Places
+## Cantusque laetus
 
 Et ille. Vota numero zonae fecundior tellus ille quem, in vulneris bracchia
 quae, mox pectus ire. Ego arcus nactus, nec rictus, in manibus nati est quem
