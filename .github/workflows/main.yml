@@ -2,9 +2,9 @@ name: DocFX Build and Publish
 
 on:
   push:
-    branches: main1
+    branches: main
   pull_request:
-    branches: main1
+    branches: main
     
 jobs:
   generate-docs:
