@@ -12,9 +12,9 @@ Link: https://www.aboutbihar.com
 
 ## CI-CD Pipeline Status
 
-|Component|Status|
-|---|---|
-|`Website`|[![www.aboutbihar.com](https://github.com/BipulRaman/AboutBihar/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/BipulRaman/AboutBihar/blob/main/.github/workflows/main.yml)|
+|Component|Target|Status|
+|---|---|---|
+|`Website`|www.aboutbihar.com|![Deployment Status](https://github.com/BipulRaman/AboutBihar/blob/main/.github/workflows/main.yml/badge.svg)|
 
 ## Defects / New feature request
 You can raise defects or request new features here: https://github.com/BipulRaman/AboutBihar/issues
