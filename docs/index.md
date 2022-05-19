@@ -2,11 +2,7 @@
 
 ## An Initiative to document cultural heritage of Bihar
 
-Lorem markdownum in interea, in angues ausa facit **solita**. Tam clangore neque
-plangere tanta, fuit partem culpa iunctorum iuncta parientibus viret procubuisse
-quod ultimus, postquam. Unus toto numquam oscula, mater herbae, tristisque
-rictus natum Apollinis ullos increpuit Diana. Ut tamen vos, in videtur semper
-cum contentus fagus.
+This will be completely open source and community contributed public portal.
 
 Serta fovesque augusta terra vela: inter quam supplex, et. Harpe [umquam
 fert](http://constitit.org/tanti) inducta exuit Iulius Cephalum gemit tolle
