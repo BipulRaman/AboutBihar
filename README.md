@@ -6,9 +6,10 @@ Link: https://www.aboutbihar.com
 
 ## Deployment
 
-|repository|branch|deployed to|
+|Repository|Branch|Information|
 |---|---|---|
-|`BipulRaman/AboutBihar`|`main`|www.aboutbihar.com|
+|`BipulRaman/AboutBihar`|`main`|Code Base|
+|`BipulRaman/AboutBihar`|`gh-pages`|Production Build|
 
 ## CI-CD Pipeline Status
 
