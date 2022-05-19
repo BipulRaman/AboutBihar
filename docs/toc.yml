@@ -1,8 +1,8 @@
 - name: Changelog
   href: CHANGELOG.md
 - name: Districts
-  href: Districts/
-  topicHref: Districts/Index.md
+  href: districts/
+  topicHref: districts/index.md
 - name: Festivals
   href: Festivals/
   topicHref: Festivals/Index.md
