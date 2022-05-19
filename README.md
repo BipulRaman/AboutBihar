@@ -14,7 +14,7 @@ Link: https://www.aboutbihar.com
 
 |Component|Target|Status|
 |---|---|---|
-|`Website`|www.aboutbihar.com|![Deployment Status](https://github.com/BipulRaman/AboutBihar/blob/main/.github/workflows/main.yml/badge.svg)|
+|`Website`|www.aboutbihar.com|![Deployment Status](https://github.com/BipulRaman/AboutBihar/actions/workflows/main.yml/badge.svg)|
 
 ## Defects / New feature request
 You can raise defects or request new features here: https://github.com/BipulRaman/AboutBihar/issues
