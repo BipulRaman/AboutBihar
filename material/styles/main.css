@@ -105,6 +105,13 @@ article h4 {
   color: var(--header-ft-color);
 }
 
+.navbar-brand > h2 {
+  line-height: 0.8;
+  color: wheat;
+  margin-right: 20px;
+}
+
+
 .navbar {
   border: none;
   /* Both navbars use box-shadow */

@@ -1,3 +1,8 @@
+---
+_description : All About Bihar.
+_keywords : "Index, Home"
+---
+
 # About Bihar
 
 ## An Initiative to document cultural heritage of Bihar
