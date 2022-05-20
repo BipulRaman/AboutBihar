@@ -1,4 +1,5 @@
 ---
+_appTitle : All About Bihar
 _description : All About Bihar.
 _keywords : "Index, Home"
 ---

@@ -15,7 +15,7 @@
     "resource": [
       {
         "files": [
-          "images/**",
+          "Images/**",
           "CNAME"
         ]
       }
@@ -33,7 +33,8 @@
     ],
     "globalMetadata": {
       "_appName": "About Bihar",
-      "_appTitle": "Bipul Raman",
+      "_appTitle": "About Bihar",
+      "_appFaviconPath": "Images/favicon.ico",
       "_enableSearch": "true",
       "_gitContribute": {
         "repo": "https://github.com/bipulRaman/AboutBihar"
