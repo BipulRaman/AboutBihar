@@ -1,3 +1,3 @@
-# Districts of Bihar
+# Festivals of Bihar
 
 ## Introduction
