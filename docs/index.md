@@ -13,7 +13,7 @@ This is an open-source project which will be an Initiative to digitally document
 ## Contribution
 
 Software Engineering is already completed for the project, as you see the portal is live.
-This will be a community driven portal. Anyone can come and contribute. There will be an approval system of the artile to ensure the authenticity and quality of the article.
+This will be a community driven portal. Anyone can come and contribute. There will be an approval system to ensure the authenticity and quality of the article.
 
 > [!NOTE]
 > We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar. If anyone of you are interested to contribute, please drop me a message.
