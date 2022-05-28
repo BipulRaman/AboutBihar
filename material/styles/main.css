@@ -311,3 +311,6 @@ pre {
   box-shadow: var(--card-box-shadow);
   max-width: 700px;
 }
+.doc-bottom{
+  font-size: 11px;
+}
