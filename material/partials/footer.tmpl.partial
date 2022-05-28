@@ -7,9 +7,7 @@
       <span class="pull-right">
         <a href="#top">{{__global.backToTop}}</a>
       </span>      
-      <span>© Bipul Raman / About Bihar</span><br>
-      <span>Page Modified : <span id="modify"></span></span>
-      <script>document.getElementById("modify").innerHTML = document.lastModified</script>
+      <span>© Bipul Raman / About Bihar</span><br>      
     </div>
   </div>
 </footer>
