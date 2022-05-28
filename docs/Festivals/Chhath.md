@@ -1,3 +1,9 @@
+---
+_appTitle : Chhath
+_description : Chhath Pooja is an ancient Hindu festival historically native to the state of Bihar and nearby states dedicated to the solar deity, Surya
+_keywords : "Chhath Pooja, Bihar"
+---
+
 # Chhath
 
 ## Introduction
