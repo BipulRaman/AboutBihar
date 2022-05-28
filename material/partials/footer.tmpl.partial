@@ -7,7 +7,8 @@
       <span class="pull-right">
         <a href="#top">{{__global.backToTop}}</a>
       </span>      
-      <span>© Bipul Raman / About Bihar</span>   
+      <span>© Bipul Raman / About Bihar</span>&nbsp;|&nbsp;
+      <span>Modified: {{_modified}}</span>  
     </div>
   </div>
 </footer>
