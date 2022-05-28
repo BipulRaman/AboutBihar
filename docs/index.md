@@ -6,38 +6,20 @@ _keywords : "Index, Home"
 
 # About Bihar
 
-## An Initiative to document cultural heritage of Bihar
+## Mission and Vision
 
-This will be completely open source and community contributed public portal.
+This is an open-source project which will be an Initiative to digitally document cultural and geographical heritage of Bihar.
 
-Serta fovesque augusta terra vela: inter quam supplex, et. Harpe [umquam
-fert](http://constitit.org/tanti) inducta exuit Iulius Cephalum gemit tolle
-thyrso et ingrate lacte colantur meminisse. Macies meminitque illi; esse ante
-fortissime ignes, si. Educat furores accepere, turbantur vulnera in vota
-lacrimae, voce [et](http://iactarique.com/) ullis sedent.
+## Contribution
 
-> Piceae tum *dea non* viderat pullosque **tempto vel capillos** senis, et
-> recenti Phoebe. Et Amuli *de* victos thalami, pavet usus auro est sua. Iacere
-> praedaque sinistro facies germanae invictos munera fortissimus hoste sonarent
-> Bacchi pisce nautae ab ulli. Corporibus nodus undas, more, **sonant in** retro
-> vina remittat illa tum; hic.
+Software Engineering is already completed for the project, as you see the portal is live.
+This will be a community driven portal. Anyone can come and contribute. There will be an approval system of the artile to ensure the authenticity and quality of the article.
 
-## Tourist Places
+> [!NOTE]
+> We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar. If anyone of you are interested to contribute, please drop me a message.
 
-Tourist Places in Bihar.
-Et ille. Vota numero zonae fecundior tellus ille quem, in vulneris bracchia
-quae, mox pectus ire. Ego arcus nactus, nec rictus, in manibus nati est quem
-fecundo nomina [male nodis satis](http://spiramenta-nyseides.com/) una sed
-vidit.
+## Future Plans
 
-- Quem nitidissimus Berecyntia victae
-- Iam irata ut o armis odorato intremuere
-- Suis una postulat illis expellam Faunigenaeque trementi
-- Moenibus saxum peperisse illa Italis
-- Lenta est
-- Sermone tardae ut ponit virum quid sanguine
+In future, we will be open for donations. Funds collected through it will be spend on contributors as morale budget.
 
-Rapiare concilium lacrimaeque crudelis tempus claustraque videtur? In et mira
-sperato placuere sinisterior regis profundum dixit aemula! Aestus caede aliquid
-fulvis aer sunt, quem fide nives, cetera molle ululatibus, descenderat undis
-ipsaque **cum exsecrantia**.
+Bipul Raman will take the complete ownership and responsibility of infrastructure costs.
