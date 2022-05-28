@@ -3,12 +3,8 @@
     "content": [
       {
         "files": [
-          "Districts/**.md",
-          "Districts/toc.yml",
-          "Festivals/**.md",
-          "Festivals/toc.yml",
-          "Tourism/**.md",
-          "Tourism/toc.yml",
+          "**/**.md",
+          "**/toc.yml",
           "toc.yml",
           "*.md"
         ]
