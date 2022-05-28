@@ -6,8 +6,9 @@
     <div class="container">
       <span class="pull-right">
         <a href="#top">{{__global.backToTop}}</a>
-      </span>
-      <span>Copyright © 2022 <strong>Bipul Raman / About Bihar</strong></span>
+      </span>      
+      <span>Copyright © 2022 <strong>Bipul Raman / About Bihar</strong> &nbsp;|&nbsp; Modified: <span id="modify"></span></span>
+      <script>document.getElementById("modify").innerHTML = document.lastModified</script>
     </div>
   </div>
 </footer>

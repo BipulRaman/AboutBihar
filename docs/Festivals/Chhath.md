@@ -1,7 +1,7 @@
 ---
 _appTitle : Chhath
 _description : Chhath Pooja is an ancient Hindu festival historically native to the state of Bihar and nearby states dedicated to the solar deity, Surya
-_keywords : "Chhath Pooja, Bihar"
+_keywords : "Chhath Pooja, Bihar, Festival"
 ---
 
 # Chhath
@@ -26,7 +26,6 @@ In some communities, once a family member starts performing Chhath Puja, they ar
 
 The prasad offerings include Thekua, Khajuria, Tikri and fruits (mainly sugar canes, sweet lime, banana and many seasonal fruits) offered in small bamboo baskets. The food is strictly vegetarian and is cooked without salt, onions or garlic. Emphasis is put on maintaining the purity of the food.
 
-
 ### Nahaay Khaay (Day 1)
 
 This is the first day of Chhath Puja. The Parvaitin must take a holy bath, after which the entire house, its surroundings and pathways to the Ghat are thoroughly cleaned. The Parvaitin usually cooks Satvik Kaduaa Bhaat (Bottle Gourd and Bengal Gram Lentil preparation with Arva Rice Bhaat) This preparation is served to the deity in the afternoon as Bhog. This initiates the parv and is the last meal of the Parvaitin during Chhath Puja. The food is then eaten to protect the mind from thoughts of vengeance.
@@ -43,7 +42,7 @@ After returning home the devotees perform the ritual of kosi bharai together wit
 
 ### Bhorka Aragh (Day 4)
 
-Before sunrise on the last day of Chhath puja, the devotees have to go to the riverbank to offer an arghya to the rising sun. After this, the protection of the child and the peace and happiness of the entire family is sought from Chhatti Maiya(Ranbay Maay). After worship, devotees drink water and eat a little prasad in order to break one's fast. This is called Paran or Parana.
+Before sunrise on the last day of Chhath puja, the devotees have to go to the riverbank to offer an arghya to the rising sun. After this, the protection of the child and the peace and happiness of the entire family is sought from Chhatti Maiya(Ranbay Maay). After worship, devotees drink water and eat a little prasad in order to break one's fast. This is called Paran or Parana...
 
 ---
 `Article Source: Wikipedia | Image Source: Internet`
