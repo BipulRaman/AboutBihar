@@ -19,7 +19,7 @@ Software Engineering is already completed for the project, as you see the portal
 This will be a community driven portal. Anyone can come and contribute. There will be an approval system to ensure the authenticity and quality of the article.
 
 > [!NOTE]
-> We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar. If anyone of you are interested to contribute, please drop a message at aboutbihar@bipul.in.
+> We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar. If you are interested to contribute, please drop a message at aboutbihar@bipul.in.
 
 ## Future Plans
 
