@@ -1,6 +1,6 @@
-- name: Districts
-  href: districts/
-  topicHref: districts/index.md
+- name: Info
+  href: Info/
+  topicHref: Info/Intro.md
 - name: Festivals
   href: Festivals/
   topicHref: Festivals/Index.md
