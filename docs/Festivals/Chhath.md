@@ -43,7 +43,7 @@ After returning home the devotees perform the ritual of kosi bharai together wit
 
 ### Bhorka Aragh (Day 4)
 
-Before sunrise on the last day of Chhath puja, the devotees have to go to the riverbank to offer an arghya to the rising sun. After this, the protection of the child and the peace and happiness of the entire family is sought from Chhatti Maiya(Ranbay Maay). After worship, devotees drink water and eat a little prasad in order to break one's fast. This is called Paran or Parana...
+Before sunrise on the last day of Chhath puja, the devotees have to go to the riverbank to offer an arghya to the rising sun. After this, the protection of the child and the peace and happiness of the entire family is sought from Chhatti Maiya(Ranbay Maay). After worship, devotees drink water and eat a little prasad in order to break one's fast. This is called Paran or Parana.
 
 ---
 `Article Source: Wikipedia | Image Source: Internet`
