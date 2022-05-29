@@ -1,4 +1,4 @@
-- name: Info
+- name: Basic Info
   href: Info/
   topicHref: Info/Intro.md
 - name: Festivals
@@ -7,5 +7,7 @@
 - name: Tourism
   href: Tourism/
   topicHref: Tourism/Index.md
-- name: Contribute
-  href: https://github.com/bipulraman/AboutBihar/
+- name: Heritage
+  href: #
+- name: Foods
+  href: #
