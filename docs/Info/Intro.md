@@ -1,5 +1,4 @@
 ---
-_appTitle : Introduction
 _description : Basic Information about Bihar.
 _keywords : "Bihar, Info"
 _author: "Bipul Raman"

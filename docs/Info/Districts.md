@@ -1,5 +1,4 @@
 ---
-_appTitle : Districts
 _description : Districts of Bihar.
 _keywords : "Districts, Bihar"
 _author: "Bipul Raman"

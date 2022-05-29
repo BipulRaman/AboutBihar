@@ -1,5 +1,4 @@
 ---
-_appTitle : Festivals
 _description : Festivals of Bihar.
 _keywords : "Festivals, Bihar"
 _author: "Bipul Raman"

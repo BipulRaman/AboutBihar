@@ -1,5 +1,4 @@
 ---
-_appTitle : All About Bihar
 _description : All About Bihar.
 _keywords : "Index, Home"
 _author: "Bipul Raman"
@@ -7,7 +6,7 @@ _modified : "27th May 2022"
 ---
 
 
-# About Bihar
+# It's all about Bihar
 
 ## Mission and Vision
 

@@ -1,5 +1,4 @@
 ---
-_appTitle : Tourism Bihar
 _description : All About Tourism in Bihar.
 _keywords : "Tourism, Bihar"
 _author: "Bipul Raman"

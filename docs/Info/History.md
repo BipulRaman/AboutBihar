@@ -1,5 +1,4 @@
 ---
-_appTitle : History
 _description : Ancient, Medieval and Modern History of Bihar.
 _keywords : "History, Bihar"
 _author: "Bipul Raman"
