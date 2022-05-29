@@ -11,15 +11,17 @@ _modified : "27th May 2022"
 
 ## Mission and Vision
 
-This is an open-source project which will be an Initiative to digitally document cultural and geographical heritage of Bihar.
+This is an open-source project which is basically an Initiative to digitally document cultural and natural heritage of Bihar. Intent of this website is to create a Brand of Bihar to promote tourism and investments in the state.
 
 ## Contribution
 
-Software Engineering is already completed for the project, as you see the portal is live.
-This will be a community driven portal. Anyone can come and contribute. There will be an approval system to ensure the authenticity and quality of the article.
+Software Engineering of the Portal is already completed. Continuous improvement will continue to happen.
+This is a community driven portal. Anyone can come and contribute via GitHub. There will be an approval system (PR Review) to ensure the authenticity and quality of the article.
+One can also send article / suggestions via [Email](mailto:aboutbihar@bipul.in).
 
-> [!NOTE]
-> We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar. If you are interested to contribute, Please drop an email at aboutbihar@bipul.in with your formal introduction.
+We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar.
+
+**If you are interested to contribute, Please drop an [Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
 
 ## Future Plans
 
