@@ -1,12 +1,17 @@
 ---
-_description : All About Bihar.
+title : Namaste🙏
+_description : Welcome to the website! Come and explore about Bihar. The culture, Festivals, Foods, History and much more.
 _keywords : "Index, Home"
 _author: "Bipul Raman"
 _modified : "27th May 2022"
 ---
 
 
-# It's all about Bihar
+# It's all about Bihar 🚩
+
+Namaste🙏! On this website you can explore about Bihar. The culture, Festivals, Foods, History and much more.
+It will take few months to collect and publish all the major cultural, heritage and natural entities of Bihar on this website. 
+Please be patient. We are equally eager to make this website fully informative.🙂
 
 ## Mission and Vision
 
