@@ -21,11 +21,11 @@ This is an open-source project which is basically an Initiative to digitally doc
 
 Software Engineering of the Portal is already completed. Continuous improvement will continue to happen.
 This is a community driven portal. Anyone can come and contribute via GitHub. There will be an approval system (PR Review) to ensure the authenticity and quality of the article.
-One can also send article / suggestions via [Email](mailto:aboutbihar@bipul.in).
+One can also send article / suggestions via ✉️[Email](mailto:aboutbihar@bipul.in).
 
 We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar.
 
-**If you are interested to contribute, Please drop an [Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
+**If you are interested to contribute, Please drop an ✉️[Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
 
 ## Future Plans
 
