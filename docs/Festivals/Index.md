@@ -1,4 +1,7 @@
 ---
+_appTitle : Festivals
+_description : Festivals of Bihar.
+_keywords : "Festivals, Bihar"
 _author: "Bipul Raman"
 _modified : "28th May 2022"
 ---

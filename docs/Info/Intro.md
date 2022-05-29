@@ -1,4 +1,7 @@
 ---
+_appTitle : Introduction
+_description : Basic Information about Bihar.
+_keywords : "Bihar, Info"
 _author: "Bipul Raman"
 _modified : "28th May 2022"
 ---

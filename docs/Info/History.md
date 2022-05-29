@@ -1,12 +1,17 @@
 ---
+_appTitle : History
+_description : Ancient, Medieval and Modern History of Bihar.
+_keywords : "History, Bihar"
 _author: "Bipul Raman"
 _modified : "28th May 2022"
 ---
 
 # History of Bihar
+
 History of Bihar can be categorized into three phases: Ancient History, Medieval History and Modern History.
 
 ## Ancient History
+
 The history of Bihar dates back to the very dawn of human civilization as mythological tales and legends of Hinduism, the Sanatana (Eternal) Dharma, can be traced to the land of Bihar.
 
 ### A Significant place in Ramayana
@@ -69,11 +74,11 @@ At the time of Independence in 1947, the State of Bihar, with the same geographi
 
 ### Role of Bihar in India’s struggle of Independence
 
-**Veer Kunwar Singh**
+#### Veer Kunwar Singh
 
 Bihar's contribution in the struggle of freedom dates back to 1857. Babu Kunwar Singh led the Indian Rebellion of 1857 in Bihar. He was nearly eighty and in failing health when he was called upon to take up arms. He gave a good fight and harried British forces for nearly a year and remained invincible until the end. He was an expert in the art of guerilla warfare. His tactics left the British puzzled. Singh assumed command of the soldiers who had revolted at Danapur on 25 July. Two days later he occupied Arrah, the district headquarters. Major Vincent Eyre relieved the town on 3 August, defeated Singh's force and destroyed Jagdishpur. During the rebellion, his army had to cross the Ganges river. Douglas' army began to shoot at their boat. One of the bullets shattered Singh's left wrist. Singh felt that his hand had become useless and that there was the additional risk of infection due to the bullet-shot. He drew his sword and cut off his left hand near the elbow and offered it to the Ganges In his last battle, fought on 23 April 1858, near Jagdispur, the troops under the control of the East India Company were completely routed. On 22 and 23 April, being injured he fought bravely against the British Army and with the help of his army drove away the British Army, brought down the Union Jack from Jagdishpur Fort and hoisted his flag. He returned to his palace on 23 April 1858 and soon died on 26 April 1858.
 
-Deshratna Dr. Rajendra Prasad and Bihar Vibhuti Anugrah Narayan Sinha during Mahatma Gandhi's 1917 Champaran Satyagraha
+#### Deshratna Dr. Rajendra Prasad and Bihar Vibhuti Anugrah Narayan Sinha during Mahatma Gandhi's 1917 Champaran Satyagraha
 
 Resurgence in the history of Bihar came during the struggle for India's independence. It was from Bihar that Mahatma Gandhi launched his civil-disobedience movement, which ultimately led to India's independence. In 1917, at the persistent request of a farmer named Raj Kumar Shukla from the district of Champaran, Gandhiji took a train ride to Motihari. Here he got to know the plight of the indigo farmers suffering under the oppressive rule of the British. Alarmed at the tumultuous reception of Gandhiji in Champaran, the British authorities served notice on him to leave the Province of Bihar. Gandhiji refused to comply, stating the right of an Indian to freely travel anywhere in his own country. For this act of defiance he was detained in the district jail at Motihari. From his jail cell, with the help of his friend from South Africa days, C. F. Andrews, Gandhiji managed to send letters to journalists and the Viceroy of India describing what he saw in Champaran, and made formal demands for the emancipation of these people. When produced in court, the Magistrate ordered his release on the condition of furnishing bail bond. Gandhiji refused to furnish the bail. Instead, he indicated his preference to remain in jail. Alarmed at the huge response he was receiving from the people of Champaran, the magistrate set him free, without any precondition. This was the first instance of the success of civil-disobedience as a tool to win freedom.
 
