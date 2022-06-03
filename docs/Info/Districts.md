@@ -3,6 +3,7 @@ _description : Districts of Bihar.
 _keywords : "Districts, Bihar"
 _author: "Bipul Raman"
 _modified : "28th May 2022"
+_enableNewTab : true
 ---
 
 # Districts
