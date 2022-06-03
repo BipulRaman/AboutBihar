@@ -41,11 +41,24 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 
 ### Jyeshtha
 
-- [Festivals of Jyeshtha]()
+- **[Narada Jayanti]()** - Narada Jayanti is celebrated as the birth anniversary of Devrishi Narada Muni.
+- **[Apara Ekadashi]()** - Apara Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
+- **[Vat Savitri Vrat]()** - Married women observe Vat Savitri Vrat for well-being and long life of their husbands.
+- **[Shani Jayanti]()** - Shani Jayanti is marked as birth anniversary of Lord Shani. Shani Jayanti is also known as Shani Amavasya.
+- **[Ganga Dussehra]()** - Gangavataran, the descent of the Goddess Ganga on the Earth, is celebrated on Ganga Dussehra day. Goddess, in form of river Ganga, is worshipped on this day.
+- **[Nirjala Ekadashi]()** - Nirjala Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
+- **[Vat Purnima Vrat]()** - Vat Purnima Vrat is similar to Vat Savitri Vrat. Married women observe Wat Purnima Vrat for well-being and long life of their husband.
+- **[Mahesh Navami]()** - Mahesh Navami is observed annually on Shukla Paksha Navami in Jyeshtha month according to Hindu lunar calendar.
+- **[Gayatri Jayanti]()** - Jyeshtha Gayatri Jayanti
 
 ### Ashadha
 
-- [Festivals of Ashadha]()
+- **[Yogini Ekadashi]()** - Yogini Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
+- **[Jagannath Rathyatra]()** - Jagannath Rathyatra is a huge Hindu festival associated with Lord Jagannath held at Puri in the state of Orissa. It's been celebrated for several decades in Ranchi too which was a district in Bihar before partition.
+- **[Devshayani Ekadashi]()** - Devshayani Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
+- **[Guru Purnima]()** - Guru Purnima is a festival traditionally celebrated by Hindus. On this day, disciples offer puja or pay respect to their Guru.
+- **[Kokila Vrat]()** - Kokila Vrat is dedicated to Goddess Sati and Lord Shiva. The name Kokila refers to Indian bird cuckoo and is associated with Goddess Sati.
+- **[Vyasa Puja / Guru Poornima]()** - Full moon day during Ashadha month is known as Vyasa Puja day. Traditionally this day is reserved for Guru Puja or Guru Worship.
 
 ### Shraavana
 
