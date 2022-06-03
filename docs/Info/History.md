@@ -20,14 +20,20 @@ According to Ramayana, Sita, the consort of Lord Rama, was a princess of Bihar. 
 According to legends, the birthplace of Sita is Punaura, which is located on the west of Sitamarhi town and Janakpur, the capital of King Janak and the place where Lord Rama and Sita were married, lies just across the border in Nepal.
 
 Maharishi Valmiki, author of Hindu epic 'Ramayana', is also said to have lived in Bihar in a place currently known as Valmikinagar, a small town in the district of West Champaran.
+:::image type="content" source="Images/RamayanMithilaPainting.jpeg" alt-text="Ramayana in Mithila Painting.":::
+`Ramayana in Mithila Painting`
 
 ### Birthplace of the great religion of Buddhism and Jainism
 
-It was in Bodh Gaya, a town in central Bihar, where Prince Gautam attained enlightenment, became the Buddha and the great religion of Buddhism was born. Also, it was in Bihar that Lord Mahavira, the founder of another great religion, Jainism, was born and attained nirvana (death). The place where Lord Mahavira attained Nirwana is located at the present town of Pawapuri, not far away from Patna, the capital city.
+It was in Bodh Gaya, a town in central Bihar, where Prince Gautam attained enlightenment under Mahabodhi Tree, became the Buddha and the great religion of Buddhism was born. Also, it was in Bihar that Lord Mahavira, the founder of another great religion, Jainism, was born and attained nirvana (death). The place where Lord Mahavira attained Nirwana is located at the present town of Pawapuri, not far away from Patna, the capital city.
+:::image type="content" source="Images/MahabodhiTree.jpg" alt-text="Mahabodhi Tree (Bodh Gaya)":::
+`Mahabodhi Tree at Bodh Gaya`
 
 ### An important site for Sikhism
 
 The tenth and last Guru of the Sikhs, Guru Gobind Singh Ji Maharaj was born in Bihar. A lovely and majestic Gurudwara, Takhat Shri Harmandir Ji Saheb, located in eastern Patna, was built to commemorate his memory. Reverentially known as the Patna Sahib, it is one of the five holiest places of worship (Takhat) of Sikhs.
+:::image type="content" source="Images/HarmandirPatna.jpg" alt-text="Takhat Shri Harmandir Ji Saheb":::
+`Takhat Shri Harmandir Ji Saheb`
 
 ### Earliest formulator of Modern Economy
 
