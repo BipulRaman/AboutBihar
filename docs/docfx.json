@@ -34,7 +34,7 @@
       "_appName": "About Bihar",
       "_appTitle": "About Bihar",
       "_appFaviconPath": "Assets/favicon.ico",
-      "_metaImage":"Assets/1001.png",
+      "_image":"Assets/1001.png",
       "_enableSearch": "true",
       "_gitContribute": {
         "repo": "https://github.com/bipulRaman/AboutBihar"

@@ -26,9 +26,3 @@ One can also send article / suggestions via ✉️[Email](mailto:aboutbihar@bipu
 We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar.
 
 **If you are interested to contribute, Please drop an ✉️[Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
-
-## Future Plans
-
-In future, we will be open for donations. Funds collected through it will be spend on contributors as morale budget.
-
-Bipul Raman will take the complete ownership and responsibility of infrastructure costs.

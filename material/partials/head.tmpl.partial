@@ -1,32 +1,47 @@
-{{!Copyright (c) Bipul Raman. All rights reserved. Licensed under the MIT license. See LICENSE file in the project root for full license information.}}
+{{!Copyright (c) Bipul Raman. All rights reserved. Licensed under the MIT license. See LICENSE file in the project root
+for full license information.}}
+
 <head>
+  <!-- General Meta Tags -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}</title>
   <meta name="viewport" content="width=device-width">
   <meta name="title" content="{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}">
-  <meta name="generator" content="docfx {{_docfxVersion}}">
   {{#_description}}<meta name="description" content="{{_description}}">{{/_description}}
   <meta name="keywords" content="{{_keywords}}">
   <meta name="author" content="{{_author}}">
-  <meta name="og:image" content="{{_metaImage}}">
+  {{#_noindex}}<meta name="searchOption" content="noindex">{{/_noindex}}
+  {{#_enableSearch}}<meta property="docfx:rel" content="{{_rel}}">{{/_enableSearch}}
+  {{#_enableNewTab}}<meta property="docfx:newtab" content="true">{{/_enableNewTab}}
+  <!-- Facebook Meta Tags -->
+  <meta property="og:type" content="article" />
+  <meta name="og:title" content="{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}">
+  {{#_description}}<meta name="og:description" content="{{_description}}">{{/_description}}
+  {{#_image}}<meta name="og:image" content="{{_image}}">{{/_image}}
+  <meta property="og:url" content="https://www.aboutbihar.com" />
+  <meta property="og:site_name" content="About Bihar" />
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:title" content="{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}">
+  {{#_description}}<meta name="twitter:description" content="{{_description}}">{{/_description}}
+  {{#_image}}<meta name="twitter:image" content="{{_image}}">{{/_image}}
+  <meta name="twitter:site" content="@BipulRaman">
+  <meta name="twitter:creator" content="@BipulRaman">
+  <!-- Stylesheets -->
   <link rel="shortcut icon" href="{{_rel}}{{{_appFaviconPath}}}{{^_appFaviconPath}}favicon.ico{{/_appFaviconPath}}">
   <link rel="stylesheet" href="{{_rel}}styles/docfx.vendor.css">
   <link rel="stylesheet" href="{{_rel}}styles/docfx.css">
   <link rel="stylesheet" href="{{_rel}}styles/main.css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <meta property="docfx:navrel" content="{{_navRel}}">
   <meta property="docfx:tocrel" content="{{_tocRel}}">
-  {{#_noindex}}<meta name="searchOption" content="noindex">{{/_noindex}}
-  {{#_enableSearch}}<meta property="docfx:rel" content="{{_rel}}">{{/_enableSearch}}
-  {{#_enableNewTab}}<meta property="docfx:newtab" content="true">{{/_enableNewTab}}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-YE0K0ZJSX2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-YE0K0ZJSX2');
-  </script>
+  </script>  
 </head>
