@@ -2,7 +2,7 @@
 _description : Festivals of Bihar.
 _keywords : "Festivals, Bihar"
 _author: "Bipul Raman"
-_modified : "28th May 2022"
+_modified : "3rd June 2022"
 _image: "Images/Chhath.jpg"
 ---
 
@@ -14,7 +14,7 @@ Bihar has a tradition of festivals from time immemorial. Bihar as an ancient lan
 
 List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the Festival name to read full details about it.
 
-### Chaitra
+### Chaitra (March - April)
 
 - **[Sheetala Ashtami]()** - Sheetala Ashtami day, which is also known as Basoda Puja, is dedicated to Goddess Sheetala.
 - **[Papmochani Ekadashi]()** - Papmochini Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
@@ -26,7 +26,7 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Hanuman Jayanti]()** - Hanuman Jayanti is celebrated to commemorate the birth of Hanuman, the Vanara god, widely venerated throughout India.
 - **[Chaitra Purnima]()** - Chaitra Purnima is the first Purnima in the year according to Hindu lunar calendar and it comes after Yugadi and Gudi Padwa.
 
-### Vaisakha
+### Vaisakha (April - May)
 
 - **[Satuani / Jur Sital]()** - Jur Sital or Maithili New Year is the celebration of the first day of the Maithili new year also called Aakhar Bochhor. Maithils eat bari with bhaat on the day.
 - **[Varuthini Ekadashi]()** - Varuthini Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
@@ -39,7 +39,7 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Buddha Purnima]()** - Gautama Buddha, on whose teachings Buddhism was founded, was born on Buddha Purnima day.
 - **[Kurma Jayanti]()** - Kurma Jayanti is the birth anniversary of Lord Vishnu. Kurma was the second incarnation of Lord Vishnu during Satya Yuga. Special Puja is organized in Lord Vishnu temples.
 
-### Jyeshtha
+### Jyeshtha (May - June)
 
 - **[Narada Jayanti]()** - Narada Jayanti is celebrated as the birth anniversary of Devrishi Narada Muni.
 - **[Apara Ekadashi]()** - Apara Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
@@ -51,7 +51,7 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Mahesh Navami]()** - Mahesh Navami is observed annually on Shukla Paksha Navami in Jyeshtha month according to Hindu lunar calendar.
 - **[Gayatri Jayanti]()** - Jyeshtha Gayatri Jayanti
 
-### Ashadha
+### Ashadha (June - July)
 
 - **[Yogini Ekadashi]()** - Yogini Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Jagannath Rathyatra]()** - Jagannath Rathyatra is a huge Hindu festival associated with Lord Jagannath held at Puri in the state of Orissa. It's been celebrated for several decades in Ranchi too which was a district in Bihar before partition.
@@ -60,36 +60,36 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Kokila Vrat]()** - Kokila Vrat is dedicated to Goddess Sati and Lord Shiva. The name Kokila refers to Indian bird cuckoo and is associated with Goddess Sati.
 - **[Vyasa Puja / Guru Poornima]()** - Full moon day during Ashadha month is known as Vyasa Puja day. Traditionally this day is reserved for Guru Puja or Guru Worship.
 
-### Shraavana
+### Shraavana (July - August)
 
 - [Festivals of Shraavana]()
 
-### Bhadra
+### Bhadra (August - September)
 
 - [Festivals of Bhadra]()
 
-### Ashvin
+### Ashvin (September - October)
 
 - [Festivals of Ashvin]()
 
-### Kartik
+### Kartik (October - November)
 
 - **[Deepawali]()**
 - **[Chhath](Chhath.md)**
 
-### Agahana
+### Agahana (November - December)
 
 - [Festivals of Agahana]()
 
-### Pausha
+### Pausha (December - January)
 
 - [Festivals of Pausha]()
 
-### Magha
+### Magha (January - February)
 
 - [Festivals of Chaitra]()
 
-### Phalguna
+### Phalguna (February - March)
 
 - **[Holi]()**
 
