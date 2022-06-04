@@ -12,7 +12,7 @@ Bihar has a tradition of festivals from time immemorial. Bihar as an ancient lan
 :::image type="content" source="Images/ChhathMadhubaniArt.jpg" alt-text="Chhath Pooja described in Madhubani Painting":::
 `Chhath Pooja described in Madhubani Painting`
 
-## Month wise Hindu Festivals
+## Hindu Festivals (Month wise)
 
 List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the Festival name to read full details about it.
 
