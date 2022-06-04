@@ -67,7 +67,6 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Kamika Ekadashi]()** - Kamika Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Shravan Somwar Vrats]()** - All Mondays or Somwar(s) which fall during Shravan month are considered highly auspicious for fasting and known as Shravan Somwar.
 - **[Mangala Gauri Vrats]()** - Mangala Gauri Vrat is observed by married women on each Tuesday in Hindu month of Shravana to seek conjugal bliss from Goddess Gauri.
-- **[Hariyali Teej]()** - Hariyali Teej commemorates union of Goddess Parvati with Lord Shiva. This festival is celebrated for marital bliss and well-being of spouse and children.
 - **[Nag Panchami]()** - On Nag Panchami day married women offer puja and milk to Snake God and women pray for the wellness of their brothers and family.
 - **[Shravana Putrada Ekadashi]()** - Shravana Putrada Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Varalakshmi Vrat]()** - Varalakshmi Vratam is a festival to propitiate the goddess Lakshmi, the consort of Lord Vishnu.
@@ -80,10 +79,8 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 
 ### Bhadra (August - September)
 
-- **[Kajari Teej]()** - Next Teej after Hariyali Teej which comes after fifteen days of Hariyali Teej is known as Kajari Teej.
 - **[Krishna Janmashtami]()** - Krishna Janmashtami is a festival commemorating the birth of Lord Krishna. Lord Krishna was the eighth incarnation of Vishnu's Dashavatara.
 - **[Aja Ekadashi]()** - Aja Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
-- **[Dahi Handi]()** - Dahi Handi is a famous sportive event organized in the cities of Maharashtra and Goa. Dahi Handi is celebrated on the next day of Krishna Janmashtami.
 - **[Gayatri Japam]()** - Gayatri Japam day is linked with Upakarma day and it is observed on the next of Shravani Upakarma day.
 - **[Hartalika Teej]()** - Haritalika Teej comes one month after Hariyali Teej and most of the time celebrated one day before Ganesh Chaturthi.
 - **[Ganesh Chaturthi]()** - On Ganesh Chaturthi devotees worship Lord Ganesha. Lord Ganesha is worshipped as the god of wisdom, prosperity and good fortune.
@@ -101,17 +98,14 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Pitrupaksha Begins]()** - First day of Pitru Paksha marks the beginning of the period when Hindus pay homage to their ancestors (Pitrs), especially through food offerings.I
 - **[Indira Ekadashi]()** - Indira Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Sarva Pitru Amavasya]()** - This is the most significant and last day of Pitru Paksha. This day is also known as Sarvapitri Amavasya or Mahalaya Amavasya.
-- **[Jivitputrika Vrat]()** - Jivitputrika Vrat is a significant fasting day in which mothers observe Nirjala fasting throughout the day and night for wellbeing of their children
+- **[Jivitputrika Vrat / Jiyutiya]()** - Jivitputrika Vrat is a significant fasting day in which mothers observe Nirjala fasting throughout the day and night for wellbeing of their children
 - **[Shardiya Navratri]()** - Shardiya Navratri is the most popular and significant Navratri of all Navratris. That's why Shardiya Navratri is also known as Maha Navratri.
-- **[Saraswati Avahan]()** - The first day of Saraswati Puja during Navratri Puja is known as Saraswati Avahan. Avahan means invocation of Goddess Saraswati.
-- **[Saraswati Puja]()** - The second day of Saraswati Puja during Navratri Puja is known as Saraswati Pradhan Puja day.
 - **[Durga Ashtami]()** - Durga Ashtami, also known as Maha Ashtami, is one of the most auspicious days of the Durga Puja festival.
 - **[Maha Navami]()** - Maha Navami is the concluding day of nine days Durga Puja festivity. The main Navami Puja begins after the end of Sandhi Puja.
 - **[Dussehra]()** - Vijayadashami or Dussehra is celebrated as victory of Lord Rama over Demon Ravana and also triumph of Goddess Durga over the buffalo Demon Mahishasura.
 - **[Papankusha Ekadashi]()** - Papankusha Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Sharad Purnima]()** - It is believed that Sharad Purnima is the only day in the year when the moon comes out with all sixteen Kala(s).
 - **[Upang Lalita Vrat]()** - Lalita Panchami is a fasting day for Goddess Lalita and also known as Upang Lalita Vrat.
-- **[Kojagara Puja]()** - Lakshmi Puja on Purnima Tithi in month of Ashwin is known as Kojagara Puja and more commonly known as Bengal Lakshmi Puja.
 
 ### Kartik (October - November)
 
@@ -152,7 +146,7 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 
 - **[Sakat Chauth]()** - On Sakat Chauth, also known as Sankashta Chaturti, Lord Ganesha is worshipped. Worshipping Lord Ganesha on this day brings happiness and prosperity.
 - **[Shattila Ekadashi]()** - Shattila Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
-- **[Vasant Panchami]()** - Saraswati, the Goddess of knowledge, music and art, is worshipped on Vasant Panchami day. Yellow flowers are offered to Maa Saraswati on this day.
+- **[Vasant Panchami / Saraswati Pooja]()** - Saraswati, the Goddess of knowledge, music and art, is worshipped on Vasant Panchami day. Yellow flowers are offered to Maa Saraswati on this day.
 - **[Ratha Saptami]()** - Saptami Tithi is dedicated to Lord Surya. It is believed that Lord Surya Dev started enlightening the whole world on Ratha Saptami day.
 - **[Bhishma Ashtami]()** - Magha Shukla Ashtami is death anniversary of Bhishma Pitamah and this day is known as Bhishma Ashtmai.
 - **[Jaya Ekadashi]()** - Jaya Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
