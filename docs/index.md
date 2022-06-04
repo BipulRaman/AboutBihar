@@ -1,9 +1,9 @@
 ---
 title : Namaste🙏
 _description : Welcome to the website! Come and explore about Bihar. The culture, Festivals, Foods, History and much more.
-_keywords : "Index, Home"
-_author: "Bipul Raman"
-_modified : "27th May 2022"
+_keywords : Index, Home
+_author: Bipul Raman
+_modified : May 27, 2022
 ---
 
 
