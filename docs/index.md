@@ -25,4 +25,4 @@ One can also send article / suggestions via ✉️[Email](mailto:aboutbihar@bipu
 
 We need information contributors / editors to add pages and articles there. Information type would be the details on festival / food / culture / geographical entity of Bihar.
 
-**If you are interested to contribute, Please drop an ✉️[Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
+**If you are interested to contribute, please drop an ✉️[Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
