@@ -9,7 +9,8 @@ _image: Images/ChhathMadhubaniArt.jpg
 # Festivals of Bihar
 
 Bihar has a tradition of festivals from time immemorial. Bihar as an ancient land has a long list of festivals and fairs which the people of Bihar actively take part in. the people of ancient Bihar worshipped the forces of nature, like serpents, stones, trees, Chaityas (funerary mounds) Yakshas (semi divine beings), etc. The most famous festival of Bihar is Chatth Puja. Festivals always break the monotony of day-to-day life and inspire us to promote love and brotherhood and to work for the upliftment of the society.
-:::image type="content" source="Images/ChhathMadhubaniArt.jpg" alt-text="Chhath Pooja described in Madhubani Painting":::
+
+![Chhath Pooja described in Madhubani Painting](Images/ChhathMadhubaniArt.jpg)
 `Chhath Pooja described in Madhubani Painting`
 
 ## Hindu Festivals (Month wise)
