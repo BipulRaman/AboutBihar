@@ -1,5 +1,5 @@
 ---
-_description : Festivals of Bihar.
+_description : A summarized list of Festivals celebrated in Bihar. Bihar as an ancient land has a long list of festivals and fairs which the people of Bihar actively take part in.
 _keywords : Festivals, Bihar
 _author: Bipul Raman
 _modified : June 03, 2022
