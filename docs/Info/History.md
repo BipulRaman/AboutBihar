@@ -1,9 +1,9 @@
 ---
 _description : Ancient, Medieval and Modern History of Bihar.
-_keywords : "History, Bihar"
-_author: "Bipul Raman"
-_modified : "28th May 2022"
-_image : "Images/RamayanMithilaPainting.jpeg"
+_keywords : History, Bihar
+_author: Bipul Raman
+_modified : June 03, 2022
+_image : Images/RamayanMithilaPainting.jpeg
 ---
 
 # History of Bihar

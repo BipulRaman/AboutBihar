@@ -1,9 +1,9 @@
 ---
 _description : Chhath Pooja is an ancient Hindu festival historically native to the state of Bihar and nearby states dedicated to the solar deity, Surya
-_keywords : "Chhath Pooja, Bihar, Festival"
-_image: "Images/Chhath.jpg"
-_author: "Bipul Raman"
-_modified : "28th May 2022"
+_keywords : Chhath Pooja, Bihar, Festival
+_image: Images/Chhath.jpg
+_author: Bipul Raman
+_modified : May 28, 2022
 ---
 
 # Chhath

@@ -2,7 +2,7 @@
 _description : Festivals of Bihar.
 _keywords : "Festivals, Bihar"
 _author: "Bipul Raman"
-_modified : "3rd June 2022"
+_modified : June 03, 2022
 _image: "Images/Chhath.jpg"
 ---
 
