@@ -14,7 +14,8 @@ Chhath Pooja is an ancient Hindu festival historically native to the state of Bi
 
 Chhathi Maiya, is the sixth form of Devi Parvati and Lord Surya's sister and is worshipped as the Goddess of the festival. It is celebrated six days after Diwali, on the sixth day of the lunar month of Kartika (October–November) in the Hindu calendar Vikram Samvat. The rituals are observed over four days. They include holy bathing (Nahaay Khaay), fasting and abstaining from drinking water (vrata) , standing in water, and offering prasad (prayer offerings) and arghya to the setting and rising sun. Some devotees also perform a prostration march as they head for the river banks. In Mithila during Chhaith, the Maithil men wear pure cotton dhoti without stitching to reflect the pure traditional culture of Mithilanchal.
 
-:::image type="content" source="Images/Chhath.jpg" alt-text="Chhath Pooja":::
+![Chhath Pooja in Mithilanchal](Images/Chhath.jpg)
+`Chhath Pooja in Mithilanchal`
 
 ## Significance
 

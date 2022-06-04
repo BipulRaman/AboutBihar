@@ -21,19 +21,22 @@ According to Ramayana, Sita, the consort of Lord Rama, was a princess of Bihar. 
 According to legends, the birthplace of Sita is Punaura, which is located on the west of Sitamarhi town and Janakpur, the capital of King Janak and the place where Lord Rama and Sita were married, lies just across the border in Nepal.
 
 Maharishi Valmiki, author of Hindu epic 'Ramayana', is also said to have lived in Bihar in a place currently known as Valmikinagar, a small town in the district of West Champaran.
-:::image type="content" source="Images/RamayanMithilaPainting.jpeg" alt-text="Ramayana in Mithila Painting.":::
+
+![Ramayana in Mithila Painting](Images/RamayanMithilaPainting.jpeg)
 `Ramayana in Mithila Painting`
 
 ### Birthplace of the great religion of Buddhism and Jainism
 
 It was in Bodh Gaya, a town in central Bihar, where Prince Gautam attained enlightenment under Mahabodhi Tree, became the Buddha and the great religion of Buddhism was born. Also, it was in Bihar that Lord Mahavira, the founder of another great religion, Jainism, was born and attained nirvana (death). The place where Lord Mahavira attained Nirwana is located at the present town of Pawapuri, not far away from Patna, the capital city.
-:::image type="content" source="Images/MahabodhiTree.jpg" alt-text="Mahabodhi Tree (Bodh Gaya)":::
+
+![Mahabodhi Tree at Bodh Gaya](Images/MahabodhiTree.jpg)
 `Mahabodhi Tree at Bodh Gaya`
 
 ### An important site for Sikhism
 
 The tenth and last Guru of the Sikhs, Guru Gobind Singh Ji Maharaj was born in Bihar. A lovely and majestic Gurudwara, Takhat Shri Harmandir Ji Saheb, located in eastern Patna, was built to commemorate his memory. Reverentially known as the Patna Sahib, it is one of the five holiest places of worship (Takhat) of Sikhs.
-:::image type="content" source="Images/HarmandirPatna.jpg" alt-text="Takhat Shri Harmandir Ji Saheb":::
+
+![Takhat Shri Harmandir Ji Saheb](Images/HarmandirPatna.jpg)
 `Takhat Shri Harmandir Ji Saheb`
 
 ### Earliest formulator of Modern Economy
@@ -49,7 +52,8 @@ Another Mauryan king, Ashok, (also known as Priyadarshi or Priyadassi), around 2
 Ashok, a contemporary of Ptolemy and Euclid, was a great conqueror. His empire extended from what is now the North West Frontier Province (in Pakistan) in the west, to the eastern boundaries of present India in the north, and certainly, up to the Vindhyan Range in the south. Ashok was responsible also for the widespread proselytization of people into Buddhism. He sent his son, Prince Mahendra, and daughter, Sanghamitra, for this purpose to as far south as the present country of Sri Lanka (Sinhal Dweep in ancient times, and Ceylon during the British Empire. Some historians, particularly Sinhalese, consider Mahindra and Sanghmitra as brother and sister.
 
 Ancient Bihar also saw the glorification of women in matters of state affairs. It was here that Amrapali, a courtesan of Vaishali in the kingdom of the Lichhavis, wielded enormous power. It is said that the Lord Buddha, during his visit to Vaishali, refused the invitation of many princes, and chose to have dinner with Amrapali instead. A little-known, but historically and archaeologically documented, event is worth mentioning in this context. After his visit to Amrapali, Lord Buddha continued with his journey towards Kushinagar (also called Kusinara in Buddhist texts.) He travelled along the eastern banks of the river Gandak (also called Narayani, which marks the western border of Champaran, a district now administratively split into two- West and East Champaran.) A band of his devoted Licchavis followers accompanied Lord Buddha in this journey. At a spot known as Kesariya, in the present Purbi (East) Champaran district, Lord Buddha took rest for the night. It was here that he chose to announce to his disciples the news of his impending niravana (death); and implored them to return to Vaishali. The lamenting Licchavi steadfastly refused to leave. Whereupon, Lord Buddha, by creating a 3,000 feet wide stream between them and himself compelled them to leave. As a souvenir he gave them his alms-bowl. The Licchavis, most reluctantly and expressing their sorrow wildly, took leave and built a stupa there to commemorate the event. Lord Buddha had chosen that spot to announce his impending nirvana because, as he told his disciple Anand, he knew that in a previous life he had ruled from that place, namely, Kesariya, as a Chakravarti Raja, Raja Ben. (This is not just a mere legend, myth or folk-lore. Although, this part of Buddha's life and about the town of Kesariya is little known in India)
-:::image type="content" source="Images/Ashokan_Pillar_in_Vaishali.jpg" alt-text="Ruins of Vaishali":::
+
+![Ruins of Vaishali](Images/Ashokan_Pillar_in_Vaishali.jpg)
 `Ruins of Vaishali`
 
 ### Pinnacle of Education
@@ -57,7 +61,8 @@ Ancient Bihar also saw the glorification of women in matters of state affairs. I
 At Nalanda, the world's first university of higher learning was established during the Gupta period. It continued as a seat of learning until invaders destroyed and burnt it down. The ruins are a protected monument and a popular tourist spot. A museum and a learning center, The Nava Nalanda Mahavira, is located here.
 
 Nearby, Rajgir, was capital of the Magadh Empire during the reign of Bimbisara. It was frequently visited by Lord Buddha and Lord Mahavira. There are many Buddhist ruins here. It is also well-known for its hot-springs with medicinal properties.
-:::image type="content" source="Images/Nalanda_University_Ruins.JPG" alt-text="Ruins of Nalanda University":::
+
+![Ruins of Nalanda University](Images/Nalanda_University_Ruins.JPG)
 `Ruins of Nalanda University`
 
 ## Medieval History
