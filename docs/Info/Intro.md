@@ -25,7 +25,7 @@ Official Website of Bihar: [https://state.bihar.gov.in](https://state.bihar.gov.
 | Area | 94,163 sq.km. |
 | Time Zone | UTC+05:30 |
 | Divisions | 9 |
-| Districts | 38 |
+| Districts | 38 ([View All](./Districts.md)) |
 | Sub-Divisions | 101 |
 | CD Blocks | 534 |
 | Panchayats | 8406 |
