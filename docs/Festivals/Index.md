@@ -2,7 +2,7 @@
 _description : A summarized list of Festivals celebrated in Bihar. Bihar as an ancient land has a long list of festivals and fairs which the people of Bihar actively take part in.
 _keywords : Festivals, Bihar
 _author: Bipul Raman
-_modified : June 03, 2022
+_modified : June 05, 2022
 _image: Images/ChhathMadhubaniArt.jpg
 ---
 
@@ -10,8 +10,8 @@ _image: Images/ChhathMadhubaniArt.jpg
 
 Bihar has a tradition of festivals from time immemorial. Bihar as an ancient land has a long list of festivals and fairs which the people of Bihar actively take part in. the people of ancient Bihar worshipped the forces of nature, like serpents, stones, trees, Chaityas (funerary mounds) Yakshas (semi divine beings), etc. The most famous festival of Bihar is Chatth Puja. Festivals always break the monotony of day-to-day life and inspire us to promote love and brotherhood and to work for the upliftment of the society.
 
-![Chhath Pooja described in Madhubani Painting](Images/ChhathMadhubaniArt.jpg)
-`Chhath Pooja described in Madhubani Painting`
+![Chhath Pooja is depicted in Madhubani Painting](Images/ChhathMadhubaniArt.jpg)
+`Chhath Pooja is depicted in Madhubani Painting`
 
 ## Hindu Festivals (Month wise)
 
@@ -115,7 +115,7 @@ List of festivals celebrated in Bihar as per Hindu's Lunar months. Click on the 
 - **[Rama Ekadashi]()** - Rama Ekadashi is one of the twenty four Ekadashi vrats which are observed to seek blessing of Lord Vishnu.
 - **[Dhanteras]()** - Dhanteras, which is also known as Dhantrayodashi, is the first day of five days Diwali festivity. On this day Goddess Lakshmi is worshipped with God Kuber.
 - **[Narak Chaturdashi]()** - Narak Chaturdashi is celebrated as victory of Lord Krishna over Demon Narakasura. This day is also known as Kali Chaudas and Roop Chaudas.
-- **[Deepawali]()**
+- **[Deepawali]()** - Deepawali / Diwali is a festival of lights and one of the major festivals celebrated by Hindus, Buddhists, Jains, and Sikhs.
 - **[Lakshmi Puja]()** - Lakshmi puja is performed during five days Diwali festivity. Lakshmi puja is the most important day of five days festivity.
 - **[Govardhan Puja]()** - The day, when Lord Krishna defeated Indra, is celebrated as Govardhan Puja or Annakut Puja. This day is also celebrated as Bali Pratipada and New Year day.
 - **[Bhaiya Dooj]()** - On Bhaiya Duj, sisters pray for their brothers to have long and happy lives by performing Teeka ceremony and brothers offer gifts to their sisters.
