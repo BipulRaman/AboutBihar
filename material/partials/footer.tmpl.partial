@@ -9,8 +9,7 @@ for full license information.}}
         <a href="#top">{{__global.backToTop}}</a>
       </span>
       <span>© <a target="_blank" href="https://www.bipul.in">Bipul Raman</a></span>&nbsp;|&nbsp;
-      <span>📝 {{_modified}}</span>&nbsp;|&nbsp;
-      <span>Made with ❤️ in Bihar, India 🇮🇳</span>
+      <span>📝 {{_modified}}</span>     
     </div>
   </div>
 </footer1>
