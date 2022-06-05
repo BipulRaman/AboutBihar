@@ -2,7 +2,7 @@
 _description : Basic Information about Bihar.
 _keywords : Bihar, Info
 _author: Bipul Raman
-_modified : May 28, 2022
+_modified : June 05, 2022
 _enableNewTab : true
 ---
 
