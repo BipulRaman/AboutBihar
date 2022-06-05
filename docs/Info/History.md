@@ -22,8 +22,8 @@ According to legends, the birthplace of Sita is Punaura, which is located on the
 
 Maharishi Valmiki, author of Hindu epic 'Ramayana', is also said to have lived in Bihar in a place currently known as Valmikinagar, a small town in the district of West Champaran.
 
-![Ramayana in Mithila Painting](Images/RamayanMithilaPainting.jpeg)
-`Ramayana in Mithila Painting`
+![Ramayana depicted in Mithila Painting](Images/RamayanMithilaPainting.jpeg)
+`Ramayana depicted in Mithila Painting`
 
 ### Birthplace of the great religion of Buddhism and Jainism
 
