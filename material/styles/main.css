@@ -326,7 +326,7 @@ body {
   min-height: 100vh;
 }
 
-.body-content  {
+#wrapper {
   flex: 1 0 auto;
 }
 
