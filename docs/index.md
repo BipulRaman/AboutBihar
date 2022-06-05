@@ -27,7 +27,5 @@ We need information contributors / editors to add pages and articles there. Info
 
 **If you are interested to contribute, please drop an ✉️[Email](mailto:aboutbihar@bipul.in) with your formal introduction.**
 
-&nbsp;
-
 ------
 Made with ❤️ in Bihar, India 🇮🇳 by proud Biharis.
