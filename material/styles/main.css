@@ -314,3 +314,8 @@ pre {
 .navbar-form{
   box-shadow: inset 0 0px 0 rgba(255,255,255,.1),0 1px 0 rgba(255,255,255,.1) !important;
 }
+
+/* Custom Rules Added */
+.contribution{
+  display: none !important;
+}
