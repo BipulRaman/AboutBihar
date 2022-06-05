@@ -319,3 +319,21 @@ pre {
 .contribution{
   display: none !important;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.body-content  {
+  flex: 1 0 auto;
+}
+
+.footer {
+  position: fixed; 
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+}

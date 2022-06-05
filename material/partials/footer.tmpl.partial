@@ -1,7 +1,7 @@
 {{!Copyright (c) Bipul Raman. All rights reserved. Licensed under the MIT license. See LICENSE file in the project root
 for full license information.}}
 
-<footer>
+<footer1>
   <div class="grad-bottom"></div>
   <div class="footer">
     <div class="container">
@@ -13,4 +13,4 @@ for full license information.}}
       <span>Made with ❤️ in Bihar, India 🇮🇳</span>
     </div>
   </div>
-</footer>
+</footer1>
