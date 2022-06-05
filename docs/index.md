@@ -30,4 +30,4 @@ We need information contributors / editors to add pages and articles there. Info
 &nbsp;
 
 ------
-Made with ❤️ in Bihar, India 🇮🇳.
+Made with ❤️ in Bihar, India 🇮🇳 by proud Biharis.
