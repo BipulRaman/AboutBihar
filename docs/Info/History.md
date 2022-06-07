@@ -16,7 +16,7 @@ The history of Bihar dates back to the very dawn of human civilization as mythol
 
 ### A Significant place in Ramayana
 
-According to Ramayana, Sita, the consort of Lord Rama, was a princess of Bihar. She was the daughter of King Janak of Videha, the present districts of Muzaffarpur, Sitamarhi, Samastipur, Madhubani and Darbhanga, in north-central Bihar mark this ancient kingdom.
+According to Ramayana, Sita, the consort of Lord Rama, was a princess of Bihar. She was the daughter of King Janak of Videha, the present districts of Sitamarhi, Muzaffarpur, Samastipur, Madhubani and Darbhanga, in north-central Bihar mark this ancient kingdom.
 
 According to legends, the birthplace of Sita is Punaura, which is located on the west of Sitamarhi town and Janakpur, the capital of King Janak and the place where Lord Rama and Sita were married, lies just across the border in Nepal.
 
