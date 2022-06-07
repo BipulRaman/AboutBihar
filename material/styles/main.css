@@ -337,3 +337,7 @@ body {
   right: 0;
   z-index: 10000;
 }
+
+p {
+  text-align: justify;
+}
