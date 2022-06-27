@@ -1,9 +1,9 @@
 - name: Basic Info
-  href: Info/
+  href: info/
   topicHref: Info/Intro.md
 - name: Festivals
-  href: Festivals/
-  topicHref: Festivals/Index.md
+  href: festivals/
+  topicHref: festivals/index.md
 - name: Tourism
   href: #
   topicHref: #
