@@ -1,0 +1,13 @@
+- name: Basic Info
+  href: info/
+  topicHref: Info/Intro.md
+- name: Festivals
+  href: festivals/
+  topicHref: festivals/index.md
+- name: Tourism
+  href: #
+  topicHref: #
+- name: Heritage
+  href: #
+- name: Foods
+  href: #
