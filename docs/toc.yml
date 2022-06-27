@@ -1,6 +1,6 @@
 - name: Basic Info
   href: info/
-  topicHref: Info/Intro.md
+  topicHref: info/intro.md
 - name: Festivals
   href: festivals/
   topicHref: festivals/index.md
