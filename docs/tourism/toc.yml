@@ -1,6 +1,4 @@
 - name: Index
   href: index.md
 - name: Sitamarhi
-  items:
-    - name: Punaura Dhaam
-      href: sitamarhi/punaura-dhaam.md
+  href: sitamarhi/toc.yml
