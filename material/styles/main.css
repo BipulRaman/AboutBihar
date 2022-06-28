@@ -341,10 +341,3 @@ body {
 p {
   text-align: justify;
 }
-
-.toc .level1 > li {
-  font-size: 17px;
-}
-.toc .level2 {
-  font-size: 15px;
-}
