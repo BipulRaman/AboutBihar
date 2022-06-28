@@ -1,9 +1,7 @@
 ---
 _description : Ancient, Medieval and Modern History of Bihar.
 _keywords : History, Bihar
-_author: Bipul Raman
-_modified : June 03, 2022
-_image : images/ramayan-mithila-painting.jpeg
+_image : /info/images/ramayan-mithila-painting.jpeg
 ---
 
 # History of Bihar
@@ -12,7 +10,7 @@ History of Bihar can be categorized into three phases: Ancient History, Medieval
 
 ## Ancient History
 
-The history of Bihar dates back to the very dawn of human civilization as mythological tales and legends of Hinduism, the Sanatana (Eternal) Dharma, can be traced to the land of Bihar.
+The history of Bihar dates back to the very dawn of human civilization and legends of Hinduism, the Sanatana (Eternal) Dharma, can be traced to the land of Bihar.
 
 ### A Significant place in Ramayana
 

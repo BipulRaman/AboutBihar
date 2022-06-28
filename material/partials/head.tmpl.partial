@@ -18,12 +18,12 @@ for full license information.}}
   <meta property="og:type" content="article" />
   <meta name="og:title" content="{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}">
   {{#_description}}<meta name="og:description" content="{{_description}}">{{/_description}}
-  {{#_image}}<meta name="og:image" content="{{_image}}">{{/_image}}
+  {{#_image}}<meta name="og:image" content="{{_baseUrl}}{{_image}}">{{/_image}}
   <meta property="og:site_name" content="About Bihar" />
   <!-- Twitter Meta Tags -->
   <meta name="twitter:title" content="{{#title}}{{title}}{{/title}}{{^title}}{{>partials/title}}{{/title}} {{#_appTitle}}| {{_appTitle}} {{/_appTitle}}">
   {{#_description}}<meta name="twitter:description" content="{{_description}}">{{/_description}}
-  {{#_image}}<meta name="twitter:image" content="{{_image}}">{{/_image}}
+  {{#_image}}<meta name="twitter:image" content="{{_baseUrl}}{{_image}}">{{/_image}}
   <meta name="twitter:site" content="@BipulRaman">
   <meta name="twitter:creator" content="@BipulRaman">
   <!-- Stylesheets -->
@@ -34,5 +34,4 @@ for full license information.}}
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <meta property="docfx:navrel" content="{{_navRel}}">
   <meta property="docfx:tocrel" content="{{_tocRel}}">
-  <meta property="test" content="{{url}}">
 </head>

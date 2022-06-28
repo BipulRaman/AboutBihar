@@ -39,7 +39,8 @@
       "_gitContribute": {
         "repo": "https://github.com/bipulRaman/AboutBihar"
       },
-      "_gitUrlPattern": "github"
+      "_gitUrlPattern": "github",
+      "_baseUrl": "https://www.aboutbihar.com"
     },
     "noLangKeyword": false,
     "keepFileLink": false,
