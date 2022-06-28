@@ -1,6 +1,6 @@
 ---
 _description : Festivals in Kartik (October - November) month.
-_keywords : Chhath Pooja, Bihar, Festival
+_keywords : Bihar, Festival, Kartik
 _image: /festivals/kartik/images/chhath.jpg
 ---
 

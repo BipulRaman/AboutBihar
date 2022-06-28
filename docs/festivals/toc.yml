@@ -1,5 +1,38 @@
 - name: Index
   href: index.md
-- name: Kartik (Oct-Nov)
+- name: Chaitra (Mar - Apr)
+  href: chaitra/toc.yml
+  topicHref: chaitra/index.md
+- name: Vaisakha (Apr - May)
+  href: vaisakha/toc.yml
+  topicHref: vaisakha/index.md
+- name: Jyeshtha (May - Jun)
+  href: jyeshtha/toc.yml
+  topicHref: jyeshtha/index.md
+- name: Ashadha (Jun - Jul)
+  href: ashadha/toc.yml
+  topicHref: ashadha/index.md
+- name: Shraavana (Jul - Aug)
+  href: shraavana/toc.yml
+  topicHref: shraavana/index.md
+- name: Bhadra (Aug - Sep)
+  href: bhadra/toc.yml
+  topicHref: bhadra/index.md
+- name: Ashvin (Sep - Oct)
+  href: ashvin/toc.yml
+  topicHref: ashvin/index.md
+- name: Kartik (Oct - Nov)
   href: kartik/toc.yml
   topicHref: kartik/index.md
+- name: Agahana (Nov - Dec)
+  href: agahana/toc.yml
+  topicHref: agahana/index.md
+- name: Pausha (Dec - Jan)
+  href: pausha/toc.yml
+  topicHref: pausha/index.md
+- name: Magha (Jan - Feb)
+  href: magha/toc.yml
+  topicHref: magha/index.md
+- name: Phalguna (Feb - Mar)
+  href: phalguna/toc.yml
+  topicHref: phalguna/index.md
