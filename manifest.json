@@ -1,0 +1,547 @@
+{
+  "sitemap": {
+    "baseUrl": "https://www.aboutbihar.com/",
+    "priority": 0.1
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/AboutBihar/AboutBihar/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "CNAME",
+      "output": {
+        "resource": {
+          "relative_path": "CNAME"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "assets/1001.png",
+      "output": {
+        "resource": {
+          "relative_path": "assets/1001.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "assets/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "assets/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/agahana/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/agahana/index.html",
+          "hash": "6NwbNMuLr2C1ZgIMqPtH7fMk/2OqJvBd/qE3vJbPDs0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/ashadha/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/ashadha/index.html",
+          "hash": "PzbJU9oUWSnVEqqj1bO0IDYPIAjbiSUsKOyTcpdph/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/ashvin/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/ashvin/index.html",
+          "hash": "Y9vipeKOTusYa6blz/oErjxAZ766hHLRPEmvL6uWArA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/bhadra/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/bhadra/index.html",
+          "hash": "qHiBdutDBOp/C34ym5vtNOYZyGMYXG1MJo9ju1JAUs4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/chaitra/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/chaitra/index.html",
+          "hash": "fxdYQihimCKy73fDk8Z1NAD/xsn4Or92dsNlxnJe8Jc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "festivals/images/chhath-madhubani-art.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "festivals/images/chhath-madhubani-art.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/index.html",
+          "hash": "wl+pGO5br7q4WUIGM9+E9d0XpYCyRTqJxIuieG27tV0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/jyeshtha/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/jyeshtha/index.html",
+          "hash": "9cpkPAWBVRBrvhAOwqyxIW1dDZM3G6weJGNVd2UX+yU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/kartik/chhath.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/kartik/chhath.html",
+          "hash": "aexrMsxUGNIndDy3nwcuwq6fbtTm+coo3qr9tccmJeQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "festivals/kartik/images/chhath.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "festivals/kartik/images/chhath.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/kartik/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/kartik/index.html",
+          "hash": "4Ac8iuiMujU7Vo/blvY/WNRU8bw6qT2V9mKfGKQIYFQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/magha/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/magha/index.html",
+          "hash": "dzjEDxzJkKQT/2nvZuPj+uIouHFUCeLXfwEr3Tr2+IA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/pausha/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/pausha/index.html",
+          "hash": "Jfq2Qzb86lJvcq4TRy/cyt1KkRJgRs+2u/aR/+nRvCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/phalguna/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/phalguna/index.html",
+          "hash": "QZo5eyI3A+LFUHVLipgEjhoXWjsyrClCe0kwrBYXNQ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/shraavana/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/shraavana/index.html",
+          "hash": "R9jlWk6IiAJUY5h1oKAvi1hv7P/iaobBJaneE6jN2nA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "festivals/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/toc.html",
+          "hash": "umrrh5qjAvHcd3dqjA6MSp+oj4m6HwQf6aDfTy348mI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "festivals/vaisakha/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "festivals/vaisakha/index.html",
+          "hash": "cfwhPhTAeDEG70IFDITJX3Zw3Z7njCOZRjDn3AF0C0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vesLIHY1mYtovXY+b1Fh1+Mglqu/jOceTd1JTX5g0aM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "info/districts.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/districts.html",
+          "hash": "loKubUoSwWttI2VmeryQ0r3NOJ6/EieaazsETGPXIpE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "info/history.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/history.html",
+          "hash": "hNTcFSq5va2FDxaT85rAe9My1iFkACv7CGmkCWCe43M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/ashoka-pillar-vaishali.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/ashoka-pillar-vaishali.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/bihar-map.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/bihar-map.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/harmandir-parna.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/harmandir-parna.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/mahabodhi-tree.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/mahabodhi-tree.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/nalanda-university.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/nalanda-university.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "info/images/ramayan-mithila-painting.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "info/images/ramayan-mithila-painting.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "info/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "info/intro.html",
+          "hash": "VXM5YQaRDWYWbtIAvb/OMwArifOz1QylJTxv2hd+/F4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "info/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "info/toc.html",
+          "hash": "M/BwobWcmbrNrZLGJEZonvuXFVZvS6FBjmVOby1Dk38="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "9gD5zSqEslN9CmlSdLwa8Rz2TFBvfyr+mfSWsl4oJhM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tourism/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "tourism/index.html",
+          "hash": "2TlemUtJLXjVZx+Fb37w5s91eUBsZetQK+/R/Q4SC/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tourism/sitamarhi/haleshwar-sthaan.md",
+      "output": {
+        ".html": {
+          "relative_path": "tourism/sitamarhi/haleshwar-sthaan.html",
+          "hash": "8ltsyn4j1empCCZGMkF3/oPm+ep92ubN8jQj5vykNl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tourism/sitamarhi/images/haleshwar-sthaan.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "tourism/sitamarhi/images/haleshwar-sthaan.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tourism/sitamarhi/images/punaura-ariel-view.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "tourism/sitamarhi/images/punaura-ariel-view.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tourism/sitamarhi/images/punaura-mandir.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "tourism/sitamarhi/images/punaura-mandir.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "tourism/sitamarhi/images/punaura-pond.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "tourism/sitamarhi/images/punaura-pond.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tourism/sitamarhi/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "tourism/sitamarhi/index.html",
+          "hash": "pfRYYgi3gY3z1PLBmB/seRThb7soiUEmVS8lEVqgPmM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tourism/sitamarhi/punaura-dhaam.md",
+      "output": {
+        ".html": {
+          "relative_path": "tourism/sitamarhi/punaura-dhaam.html",
+          "hash": "EnN/1HvNA/TTVmSNqglJDyxOscIsLhLzl+zJk8a2PDo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "tourism/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "tourism/toc.html",
+          "hash": "0WCL/lYurZ+GTxz+Hiixmnkddo3r4uE3e22rNLGVU3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 22,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
